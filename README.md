@@ -40,3 +40,17 @@ librosa.load로 불러오던 중 디폴트값인 22050hz로 down sampling 되었
 sr=48000 주고 다시 돌려봄. 성능이 소폭 상승함.
 
 best validation accuracy = 0.92정도
+
+#### 2021.06.29(화)
+ㅋㅋ 그냥망함.
+
+train, validation 셋을 random sampling 이후에 나누었는데,
+
+교수님께서 train, validation 셋을 먼저 나누고 random sampling을 하는 것이 좋을 것이라고 조언을 해주셔서
+
+해봤더니 validation accuracy 0.7로 급락함.
+
+random sampling 후에 train, val 셋을 나누었을땐 비슷한 데이터가 꽤 많았을 것으로 추정됌..
+
+.....
+
