@@ -42,6 +42,8 @@ sr=48000 주고 다시 돌려봄. 성능이 소폭 상승함.
 best validation accuracy = 0.92정도
 
 #### 2021.06.29(화)
+new_pilot_model.ipynb
+
 ㅋㅋ 그냥망함.
 
 train, validation 셋을 random sampling 이후에 나누었는데,
