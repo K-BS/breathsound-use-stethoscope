@@ -3,6 +3,19 @@ Breath sound(binary classification)
 
 ### History
 
+#### 2021.08.02(월)
+Pilot Model 완성을 위해 GridSearchCV로 최적의 파라미터를 찾음.
+
+정리하면, Dataset을 8:2(Training, Test)로 쪼갬.
+
+그 후, Training Dataset을 5-fold cross validation으로 검증함과 동시에
+
+Grid Search로 최적의 파라미터를 탐색함.
+
+그리고 f1 스코어 및 Imbalance Data에서 사용되는 다른 스코어들 출력, Confusion Matrix작성.
+
+최종적으로 Testset기준 Accuracy 0.8868, F1-score 0.8125 등을 달성.
+
 #### 2021.07.26(월)
 적용한 것들을 정리해봄.
 
