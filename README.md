@@ -9,7 +9,21 @@ Breath sound(binary classification)
 
 ![캡처1111](https://user-images.githubusercontent.com/74411831/130637219-0d7babca-24ca-4267-807d-ee1cb717eb6d.PNG)
 
+그림 너무 잘그린듯 ㅎㅎ
 
+문제는 pytorch 상에서 모델을 구축하는데 있어,
+
+dataset을 2개 만들어서 진행해야 할지,
+
+기존의 dataset에 그냥 정형데이터 집어넣어서 하면 될지 좀 해깔려서 오늘 하루 그냥 날림 ㅠ
+
+내일은 제발 됬으면 좋겠다....
+
+그리고 데이터가 소량 추가됌.
+
+train data 210개에서 230개로,
+
+test data 53개에서 57개로 늘어남.
 
 #### 2021.08.11(수)
 
