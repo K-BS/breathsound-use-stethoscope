@@ -3,6 +3,14 @@ Breath sound(binary classification)
 
 ### History
 
+#### 2021.08.24(화)
+
+목표 : 정형데이터의 추가 ( 성별, 나이 데이터를 추가하여 학습 ) 
+
+![캡처1111](https://user-images.githubusercontent.com/74411831/130637219-0d7babca-24ca-4267-807d-ee1cb717eb6d.PNG)
+
+
+
 #### 2021.08.11(수)
 
 Audioset (https://research.google.com/audioset/) 에서 학습된 CNN14모델의 가중치를 가져와
