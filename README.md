@@ -3,6 +3,16 @@ Breath sound(binary classification)
 
 ### History
 
+#### 2021.09.07(화)
+
+정형데이터를 추가했다. 유의미한 변화가 있었다고 생각된다.
+
+Accuracy는 비슷한 수준이었지만 Imbalance Data에서 중요한 평가지표인 F1-score가 유의미하게 향상되었다.
+
+learning rate의 핫한 scheduler인 SWA(Stochastic Weight Averaging)도 추가했다.
+
+에러없이 한번에 적용되었다..!
+
 #### 2021.08.24(화)
 
 목표 : 정형데이터의 추가 ( 성별, 나이 데이터를 추가하여 학습 ) 
