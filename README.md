@@ -3,6 +3,12 @@ Breath sound(binary classification)
 
 ### History
 
+#### 2021.10.02(토)
+
+ResNet18 CBAM을 적용햇다.
+
+성능이아주좋다. 착각이아니길 ㅠ
+
 #### 2021.09.07(화)
 
 정형데이터를 추가했다. 유의미한 변화가 있었다고 생각된다.
