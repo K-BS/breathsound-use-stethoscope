@@ -3,6 +3,12 @@ Breath sound(binary classification)
 
 ### History
 
+#### 2021.10.12(화)
+
+Mel spectrogram과 MFCC를 stacking했다..!
+
+결과가 궁금하다.
+
 #### 2021.10.02(토)
 
 ResNet18 CBAM을 적용햇다.
